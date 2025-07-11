@@ -1,7 +1,7 @@
 ## 🔊 Voice Assistant – AI-Powered Desktop Automation Tool
 A Python-based voice-activated assistant designed for real-time hands-free interaction with your computer. This assistant performs a range of tasks like opening files, performing Google searches, playing YouTube videos, and more—all triggered through natural voice commands.
 
-#🚀 Features
+# 🚀 Features
 🎙️ Real-time Speech Processing using SpeechRecognition and pyttsx3
 
 🧠 Custom Intent Recognition System for mapping voice input to OS-level actions
@@ -16,7 +16,7 @@ A Python-based voice-activated assistant designed for real-time hands-free inter
 
 🧪 Hands-on experience with NLP, ML workflows, and basic computer vision
 
-#🛠️ Tech Stack
+# 🛠️ Tech Stack
 Python
 
 SpeechRecognition
